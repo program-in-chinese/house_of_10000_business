@@ -5,4 +5,4 @@
 - 所有开发成果将开源, 相关讨论公开
 
 ### 事件
-- [五笔编码编校软件 Python 版](https://github.com/program-in-chinese/wubi_code_editor)
+- 二零一八年九月 [五笔编码编校软件 Python 版](https://github.com/program-in-chinese/wubi_code_editor)
